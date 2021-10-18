@@ -14,4 +14,4 @@ they are gonna provide you a url and {&q=} add{your city name}{&appid=......}
 then start coding...
 create index.html, style.css, and index.js files
 and requesting jquery, we used it to request data.
-everything is inside weather-container div class, inside index.js file we use getJSON with help of jquery, in getJSON url, and function parameter is data, and then  icon, temp, city name etc are defined here and added icon inside image (<img> html tag ) and temp inside paragraf etc 
+everything is inside weather-container div class, inside index.js file we use getJSON with help of jquery, in getJSON url, and function parameter is data, and then  icon, temp, city name etc are defined here and added icon inside image (<img> html tag ) and temp inside paragraf etc. and so on.
